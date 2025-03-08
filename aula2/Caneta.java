@@ -1,5 +1,3 @@
-package aula2;
-
 public class Caneta {
     // atributos
     String cor;
